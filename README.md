@@ -47,6 +47,10 @@ Sau đó mở trình duyệt và truy cập **http://localhost:5173**.
 - **Pinia** - Quản lý trạng thái dễ dàng
 - **PNPM** - Trình quản lý gói nhanh và tối ưu
 - **Vite** - Công cụ build nhanh cho Vue.js
+- -**firebase**
+- auth
+- restapi
+- 
 - đang update ...
 
 ## 👤 Tác Giả
