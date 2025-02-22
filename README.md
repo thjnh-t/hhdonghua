@@ -9,6 +9,8 @@ Web xem phim cá nhân được xây dựng bằng **Vue.js** để quản lý t
 - ✨ Hiển thị danh sách phim với thông tin chi tiết
 - 📽️ Xem phim trực tiếp trên trình duyệt
 - 📊 Lưu danh sách phim yêu thích
+- Chat group
+- Admin
 - 🎨 Giao diện hiện đại, dễ sử dụng
 - ⚡ Hiệu suất tối ưu nhờ **Vue.js** và **Pinia**
 
