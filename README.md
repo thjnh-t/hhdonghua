@@ -9,7 +9,7 @@ HHDonghua là một ứng dụng web xem phim hoạt hình (donghua) được ph
 - 👑 **Quản trị viên (Admin):** Hệ thống quản lý phim, người dùng và nội dung dành riêng cho admin.
 - ❤️ **Yêu thích (Favorite):** Người dùng có thể lưu phim yêu thích để xem lại.
 - 💬 **Bình luận (Comment):** Tương tác cộng đồng qua hệ thống bình luận dưới mỗi phim.
-- 📢 **Nhóm chat (Chatgroup):** Kết nối người dùng qua các phòng chat thời gian thực.
+- 📢 **Nhóm chat (Chatgroup):** Kết nối người dùng qua các phòng chat thời gian thực, Chat AI 
 - 📦 **Quản lý trạng thái:** Sử dụng Pinia để quản lý dữ liệu ứng dụng hiệu quả.
 
 ## 🛠️ Công nghệ sử dụng
