@@ -142,3 +142,4 @@ Dự án được phát hành dưới **MIT License**.
 
 Cảm ơn bạn đã quan tâm đến **HHDonghua**! Chúc bạn có những phút giây thư giãn tuyệt vời 🎬❤️
 
+![image](https://github.com/user-attachments/assets/476e5af8-c0c3-4894-a039-238079929f03)
